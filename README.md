@@ -15,6 +15,6 @@ Once that's written and tested locally with
 
 (Check the new look at http://localhost:1313)
 
-Update the `draft` flag from `true` to false and run the deployment script.
+Update the `draft` flag from `true` to `false` and run the deployment script.
 
         ./deploy.sh
