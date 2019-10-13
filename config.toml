@@ -1,0 +1,5 @@
+baseURL = "https://fernando.st/"
+languageCode = "en-uk"
+title = "Fernando Street"
+theme = "hermit"
+publishDir = "fgardinali.github.io"
