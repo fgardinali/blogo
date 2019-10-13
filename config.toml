@@ -3,3 +3,12 @@ languageCode = "en-uk"
 title = "Fernando Street"
 theme = "hermit"
 publishDir = "fgardinali.github.io"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+
