@@ -1,3 +1,6 @@
+[submodule "fgardinali.github.io"]
+	path = fgardinali.github.io
+	url = git@github.com:fgardinali/fgardinali.github.io.git
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = https://github.com/Track3/hermit.git
