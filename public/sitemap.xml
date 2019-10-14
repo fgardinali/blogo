@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://fernando.st/</loc>
+    <lastmod>2019-10-13T21:37:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fernando.st/posts/pad-thai/</loc>
+    <lastmod>2019-10-13T21:37:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fernando.st/posts/</loc>
+    <lastmod>2019-10-13T21:37:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fernando.st/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fernando.st/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
