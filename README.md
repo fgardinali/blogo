@@ -4,17 +4,16 @@ Using gohugo.io to host fernando.st
 
 ## Deploying new posts
 
+Create new post with
 
-        hugo new posts/name_of_post.md
+    hugo new content/posts/name-of-post.md
 
+Write the post on this new file.
 
-Once that's written and tested locally with
+Check locally that the blog looks like expected with the new post
 
+    hugo server -D
 
-        hugo server -D
+If happy edit the `draft` tag in the files header to `false` and the add, commit and push the new file.
 
-(Check the new look at http://localhost:1313)
-
-Update the `draft` flag from `true` to `false` and run the deployment script.
-
-        ./deploy.sh
+This will trigger a new deployment.
